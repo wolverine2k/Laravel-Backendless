@@ -3,7 +3,7 @@ Laravel Backendless
 
 Laravel Backendless was created by, and is maintained by [Naresh Mehta](https://github.com/wolverine2k), and is a [Backendless SDK](https://github.com/Backendless/PHP-SDK) bridge for [Laravel 5](http://laravel.com). Feel free to check out the [change log](CHANGELOG.md), [releases](https://github.com/wolverine2k/Laravel-Backendless/releases), [license](LICENSE), and [contribution guidelines](CONTRIBUTING.md).
 
-![Laravel Backendless](https://cloud.githubusercontent.com/assets/2829600/4432307/c14e116c-468c-11e4-9ec7-987502964de9.PNG)
+![Laravel Backendless](https://cloud.githubusercontent.com/assets/1121738/13105802/3e964c30-d565-11e5-94fc-61357b377e98.png)
 
 <!--
 <p align="center">
