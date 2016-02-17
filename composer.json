@@ -1,0 +1,38 @@
+{
+    "name": "naresh-mehta/backendless",
+    "description": "BackendlessServiceProvider Is A Backendless SDK Bridge For Laravel 5",
+    "keywords": ["laravel", "framework", "backendless", "backendless-sdk", "backendless sdk", "BackendlessSDK", "backendless bridge", "backendless sdk bridge", "bridge", "Backendless", "Laravel Backendless", "Laravel-Backendless", "Naresh Mehta", "NareshMehta"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Naresh Mehta",
+            "email": "naresh.mehta@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.7",
+        "illuminate/contracts": "5.0.*",
+        "illuminate/support": "5.0.*",
+        "backendless/backendless": "~1.0"
+    },
+    "require-dev": {
+        "graham-campbell/testbench": "~3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "NareshMehta\\Backendless\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "NareshMehta\\Tests\\Backendless\\": "tests/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.0-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
